@@ -1,6 +1,6 @@
 var pm2 = require('pm2');
 const services = []
-services.push('meu-ip.js')
+services.push('services/meu-ip.js')
 
 function options() {
     return {

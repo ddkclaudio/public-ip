@@ -1,6 +1,6 @@
 const publicIp = require('public-ip');
 
-const token = '845940383:AAGGzo5bhDIpwv8FcolxBxqfTcqYqZREHfE'
+const token = '814085636:AAHRVwCVg4aer3gnvjoSYpT-CYFhD3MSDfk'
 var telegram = require('telegram-bot-api');
 
 var api = new telegram({
